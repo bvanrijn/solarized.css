@@ -27,6 +27,6 @@ What are the **solarized.css** features right now?, you might ask. Well, this:
 
 There are basically three options right now:
 
-  1. [The easiest, include it with RawGit CDN](https://cdn.rawgit.com/bvanrijn/solarized.css/master/solarized.min.css)
+  1. [The easiest, include it with GitCDN](https://gitcdn.xyz/repo/bvanrijn/solarized.css/master/solarized.min.css)
   2. [Download the repository as a ZIP](https://github.com/bvanrijn/solarized.css/archive/master.zip)
   3. "git clone" the repository
