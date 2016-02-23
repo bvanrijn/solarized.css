@@ -61,6 +61,15 @@ h6 {
 .btn-primary {
   background: #268bd2;
 }
+.btn-success {
+  background: #859900;
+}
+.btn-warning {
+  background: #b58900;
+}
+.btn-danger {
+  background: #dc322f;
+}
 a {
   text-decoration: none;
   color: #d33682;
