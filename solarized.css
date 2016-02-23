@@ -77,3 +77,15 @@ a {
 a:hover {
   color: #268bd2;
 }
+.text-primary {
+  color: #268bd2;
+}
+.text-success {
+  color: #859900;
+}
+.text-warning {
+  color: #b58900;
+}
+.text-danger {
+  color: #dc322f;
+}
