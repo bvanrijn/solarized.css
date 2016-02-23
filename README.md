@@ -1,7 +1,7 @@
 # solarized.css
 
 ## What's this?
-A simple, lightweight CSS framework that uses the *awesome* color scheme designed by Ethan Schoonover. Uses HTML, CSS and Stylus. New features will be added all the time and **solarized.css** cannot be considered stable enough, because it still lacks features and contains only the very basic in styling.
+A simple, lightweight CSS framework that uses the *awesome* color scheme designed by Ethan Schoonover. Written in HTML, CSS and Stylus. There's still work to be done.
 
 ## Features
 
