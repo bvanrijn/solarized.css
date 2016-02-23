@@ -1,11 +1,11 @@
 # solarized.css
 
 ## What's this?
-A simple, lightweight CSS framework that uses the *awesome* color scheme designed by Ethan Schoonover. Available in (minified) CSS and Stylus. There's still work to be done, any help would be appreciated.
+A simple, lightweight CSS framework that is inspired by the Solarized color scheme. Available in (minified) CSS and Stylus.
 
 ## Features
 
-What are the **solarized.css** features right now?, you might ask. Well, this:
+_What are the **solarized.css** features right now?_, you might ask. Well, this:
 
 * Basic page markup (font stack, background color, font size)
 * Heading sizes (h1 to h6)
