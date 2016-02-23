@@ -19,7 +19,6 @@ What are the **solarized.css** features right now?, you might ask. Well, this:
 * Forms
 * Menu
 * Bootstrap '.alert'-esque alert messages
-* Color classes to make make text stand out
 * Code blocks
 * Quotes
 * A Solarized Light version
