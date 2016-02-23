@@ -12,7 +12,7 @@ What are the **solarized.css** features right now?, you might ask. Well, this:
 * Formatting classes for bold, italic and underlined text
 * Buttons in various colors
 * Hyperlink styling
-* Color classes on any element (<p class="text-success">, for example)
+* Color classes on any element (&lt;p class="text-success"&gt;, for example)
 
 ## Upcoming features
 
@@ -21,7 +21,7 @@ What are the **solarized.css** features right now?, you might ask. Well, this:
 * Bootstrap '.alert'-esque alert messages
 * Code blocks
 * Quotes
-* A Solarized Light version
+* A Solarized Light inspired version of solarized.css
 
 ## How do I use Solarized.css on my website?
 
