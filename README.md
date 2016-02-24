@@ -1,7 +1,7 @@
 # solarized.css
 
 ## What's this?
-A simple, lightweight CSS framework that is inspired by the Solarized color scheme. Available in (minified) CSS and Stylus. Available for download or can it be included via CDN (updated every 2 hours).
+A simple, lightweight CSS framework that is inspired by the Solarized color scheme. Available in (minified) CSS and Stylus.
 
 ## Features
 
