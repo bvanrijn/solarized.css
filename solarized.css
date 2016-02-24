@@ -1,5 +1,5 @@
 body {
-  background: #073642;
+  background: #002b36;
   font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
   font-size: 14px;
   color: #839496;
@@ -88,4 +88,10 @@ a:hover {
 }
 .text-danger {
   color: #dc322f;
+}
+code {
+  background: #073642;
+  font-weight: bolder;
+  padding: 3px;
+  border-radius: 3px;
 }
