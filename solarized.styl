@@ -16,12 +16,14 @@ cyan = #2aa198
 green = #859900
 
 base-font-family = Menlo, Monaco, Consolas, "Courier New", monospace
+base-line-height = 1.428571429
 base-font-size = 14px
 header-base-font-size = 20px
 
 body
   background: base03
   font-family: base-font-family
+  line-height = base-line-height
   font-size: base-font-size
   color: base0
 h1, h2, h3, h4, h5, h6, b, i, u, .b, .i, .u
@@ -50,6 +52,7 @@ h6
   border-radius: 3px
   border: 0
   color: base2
+  margin: 3px
 .btn-default
   background: base0
 .btn-primary
@@ -78,3 +81,20 @@ code
   font-weight: bolder
   padding: 7px
   border-radius: 4px
+  line-height: base-line-height**base-line-height
+.text-25
+  width: 25%
+.text-50
+  width: 50%
+.text-75
+  width: 75%
+.text-100
+  width: 100%
+blockquote
+  background: base02
+  border-left: 10px solid base01
+  margin: 1.5em 10px
+  padding: 0.5em 10px
+  display: inline-block
+blockquote p
+  display: inline

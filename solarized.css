@@ -54,6 +54,7 @@ h6 {
   border-radius: 3px;
   border: 0;
   color: #eee8d5;
+  margin: 3px;
 }
 .btn-default {
   background: #839496;
@@ -93,5 +94,28 @@ code {
   background: #073642;
   font-weight: bolder;
   padding: 7px;
-  border-radius: 3px;
+  border-radius: 4px;
+  line-height: 1.664518071152943;
+}
+.text-25 {
+  width: 25%;
+}
+.text-50 {
+  width: 50%;
+}
+.text-75 {
+  width: 75%;
+}
+.text-100 {
+  width: 100%;
+}
+blockquote {
+  background: #073642;
+  border-left: 10px solid #586e75;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  display: inline-block;
+}
+blockquote p {
+  display: inline;
 }
