@@ -32,9 +32,8 @@ There are three options:
   3. "git clone" the repository
 
 ## Thanks to
-(In random order)
 
-_**Mega super thanks to Ethan Schoonover for Solarized_**
+**_Mega super thanks to Ethan Schoonover for Solarized_**
 * The people on StackOverflow. All of you, thank you so much.
 * The Bootstrap folks, I use their font stack and line-height settings.
 * And the tens of hundereds of thousands dubstep tracks I listen to, mainly Monstercat
