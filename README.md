@@ -33,10 +33,11 @@ There are three options:
 
 ## Thanks to
 
-**_Mega super thanks to Ethan Schoonover for Solarized_**
-* The people on StackOverflow. All of you, thank you so much.
-* The Bootstrap folks, I use their font stack and line-height settings.
-* And the tens of hundereds of thousands dubstep tracks I listen to, mainly Monstercat
+**_Mega super thanks to Ethan Schoonover for [Solarized](http://ethanschoonover.com/solarized)_**
+* The people who answer questions on [StackOverflow](https://stackoverflow.com). All of you, thank you so much.
+* The [Bootstrap](https://getbootstrap.com) folks, I use their font stack and line-height settings.
+* [CSS-Tricks](https://css-tricks.com). I love their well-written articles and they provided [the base for the quote styling](https://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling/)
+* And the tons of music tracks I listen to, mainly dubstep, on the [Monstercat podcast](https://www.monstercat.com/podcast)
 
 ## Made in
 
